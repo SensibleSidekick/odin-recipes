@@ -1,2 +1,2 @@
 # odin-recipes
-Recipe Site
+For this project I will be creating a Recipe website using the HTML and git knowledge I've acquired so far. I'm glad to finally be working on something that will create something tangible, not just learning a language and nothing else. 
