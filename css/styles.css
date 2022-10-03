@@ -1,0 +1,22 @@
+h1, 
+h2, 
+h3 {
+    color: #526e5a
+}
+
+img {
+    height: auto;
+    width: 200px;
+}
+
+p {
+    background-color: #0a7091;
+    color: white;
+    font-family: Tahoma, Arial, sans-serif;
+}
+
+ul,
+ol{
+    color: #0a7091;
+    font-family: tahoma, arial, sans-serif;
+}
